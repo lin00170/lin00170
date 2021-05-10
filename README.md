@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lin00170
+- 👋 Hi, I’m si LIN.
 - 👀 I’m interested in making the world more digital.
-- 🌱 I’m currently learning Java and Angular.
-- 💞️ I’m looking to collaborate on develpment with someone who experienced with Java,Angular, TypeScript.
+- 🌱 I’m currently taking the computer programming program at Algonquin college.
+- 💞️ I’m looking to collaborate on develpment with someone who experienced with Java, Angular, TypeScript.
 - 📫 Please contact me via lin00170@algonquinlive.com.
 
 <!---
